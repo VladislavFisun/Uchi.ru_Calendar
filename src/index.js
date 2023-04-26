@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-import Calendar from '../../../calendarTest/my-app/src/App/Calendar';
+import Calendar from './Calendar'
 
 
 
